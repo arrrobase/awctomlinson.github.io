@@ -82,7 +82,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_publications"
       type: posts
     values:
       layout: single
