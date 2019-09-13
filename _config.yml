@@ -60,6 +60,9 @@ author:
   bio    : "Python developer at the Casey Reading Center at OHSU."
   location: "Portland, OR"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:alex.wc.tomlinson@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/awctomlinson/"
