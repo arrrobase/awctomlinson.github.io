@@ -80,9 +80,9 @@ footer:
       url: "https://github.com/awctomlinson"
 
 defaults:
-  # _posts
+  # _publications
   - scope:
-      path: "_publications"
+      path: ""
       type: posts
     values:
       layout: single
@@ -98,6 +98,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
