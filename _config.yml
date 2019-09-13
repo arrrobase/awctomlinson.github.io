@@ -79,6 +79,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/awctomlinson"
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _publications
   - scope:
@@ -98,11 +103,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
