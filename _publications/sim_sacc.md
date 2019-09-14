@@ -1,0 +1,28 @@
+---
+title: "Simulated Saccadic Stimuli Suppress ON-Type Direction-Selective Retinal Ganglion Cells via Glycinergic Inhibition"
+excerpt: "Journal of Neuroscience May 2019"
+header:
+  image: assets/images/F1.jpg
+  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+sidebar:
+  - title: "Journal of Neuroscience"
+    image: assets/images/jn_cover.jpg
+    image_alt: "Issue Cover"
+    text: "29 May 2019, Volume 39, Issue 22, Pages 4312-4322"
+---
+
+Two types of mammalian direction-selective ganglion cells (DSGCs), ON and ONOFF, operate over different speed ranges. 
+The directional axes of the ON-DSGCs are thought to align with the axes of the vestibular system and provide 
+sensitivity at rotational velocities that are too slow to activate the semicircular canals. ONOFF-DSGCs respond to 
+faster image velocities. Using natural images that simulate the natural visual inputs to freely moving animals, we 
+show that simulated visual saccades suppress responses in ON-DSGCs but not ONOFF-DSGCs recorded in retinas of 
+domestic rabbits of either gender. Analysis of the synaptic inputs shows that this saccadic suppression results 
+from glycinergic inputs that are specific to ON-DSGCs and are absent in ONOFF-DSGCs. When this glycinergic input 
+is blocked, both cell types respond similarly to visual saccades and display essentially identical speed tuning. 
+The results demonstrate that glycinergic circuits within the retina can produce saccadic suppression of retinal 
+ganglion cell activity. The cell-type-specific targeting of the glycinergic circuits further supports the proposed 
+physiological roles of ON-DSGCs in retinal-image stabilization and of ONOFF-DSGCs in detecting local object motion 
+and signaling optical flow.
+
+
+[https://doi.org/10.1523/JNEUROSCI.3066-18.2019](https://doi.org/10.1523/JNEUROSCI.3066-18.2019)
