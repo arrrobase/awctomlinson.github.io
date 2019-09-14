@@ -3,6 +3,8 @@ permalink: /resume/
 title: "Resume"
 ---
 
-Placeholder data
+### ![OHSU logo][ohsu_logo] Oregon Health and Sciences University
+4 years 2 months
 
-TODO: Copy from linkedin
+
+[ohsu_logo]: assets/images/ohsu_logo.png
