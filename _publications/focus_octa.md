@@ -1,6 +1,6 @@
 ---
 title: "Importance of Focus in OCT Angiography"
-excerpt: "Ophthalmology Retina"
+excerpt: "Ophthalmology Retina July 2018"
 header:
   image: assets/images/final_notext.png
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -37,6 +37,10 @@ image focus is paramount, and the presence of defocus of
 the retinal vasculature in OCTA datasets may elude casual
 inspection and result in inaccurate quantification.
 
-{% include gallery caption="Figure 1. Progressively defocused OCT angiography scans (AngioVue, Optovue, Fremont, CA) acquired at optimal focus (A, E), -1 diopter from optimal
-(B, F), -2 diopters (C, G), and -3 diopters (D, H). Calculated average vessel densities were 56.6%, 50.1%, 48.1%, and 46.2%, respectively. Scale bar is vessel
-density (%). SSI ¼ signal strength index" %}
+
+https://doi.org/10.1016/j.oret.2018.01.012
+
+{% include gallery caption="Figure 1. Progressively defocused OCT angiography scans (AngioVue, Optovue, Fremont, CA) 
+acquired at optimal focus (A, E), -1 diopter from optimal (B, F), -2 diopters (C, G), and -3 diopters (D, H). 
+Calculated average vessel densities were 56.6%, 50.1%, 48.1%, and 46.2%, respectively. Scale bar is vessel density 
+(%). SSI ¼ signal strength index" %}
