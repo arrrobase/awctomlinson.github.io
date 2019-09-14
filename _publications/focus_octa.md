@@ -37,4 +37,6 @@ image focus is paramount, and the presence of defocus of
 the retinal vasculature in OCTA datasets may elude casual
 inspection and result in inaccurate quantification.
 
-{% include gallery caption="Figure 1." %}
+{% include gallery caption="Figure 1. Progressively defocused OCT angiography scans (AngioVue, Optovue, Fremont, CA) acquired at optimal focus (A, E), -1 diopter from optimal
+(B, F), -2 diopters (C, G), and -3 diopters (D, H). Calculated average vessel densities were 56.6%, 50.1%, 48.1%, and 46.2%, respectively. Scale bar is vessel
+density (%). SSI ¼ signal strength index" %}
