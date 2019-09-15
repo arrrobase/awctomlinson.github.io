@@ -5,10 +5,10 @@ classes: wide
 ---
 
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
-4 yrs 2 2 mos
+4 yrs 2 mos
 
 ### Senior Research Assistant - Casey Reading Center
-Feb 2019 – Present · 8 mos \\
+Feb 2019 – Present \\
 Portland, OR
 
 * Data analysis and visualization, using Pandas/Matplotlib/Seaborn/Dash/Plotly.
@@ -24,4 +24,13 @@ Portland, OR
 * Developed and maintained custom in house Python applications.
 * Quality control and extensive manual segmentation of OCT Angiography data.
 * Presented at study conference to large audience.
+
+
+### Research Assitant II - Sivyer Lab
+Jan 2017 – Jun 2018 · 1 yrs 6 mos \\
+Portland, OR
+
+* Maintenance and upgrade of stimulus software, open sourcing of code with hardware setup instructions.
+* Development of data analysis scripts and automation.
+* Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
