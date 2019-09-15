@@ -8,7 +8,7 @@ classes: wide
 4 yrs 2 mos
 
 ### Senior Research Assistant - Casey Reading Center
-###### Feb 2019 – Present \\
+###### Feb 2019 – Present
 ###### Portland, OR
 
 **•** Data analysis and visualization, using Pandas/Matplotlib/Seaborn/Dash/Plotly. \\
@@ -45,7 +45,7 @@ Portland, OR
 2 yrs 1 mo
 
 ### Emergency Department Scribe
-###### May 2013 – May 2015 \\
+###### May 2013 – May 2015
 ###### Phoenix, AZ
 
 **•** Increased patient flow and patient ­provider interaction by charting in real time for physicians as they saw patients. \\
