@@ -19,16 +19,16 @@ feature_row:
   - image_path: /assets/images/pystim.gif
     alt: "pystim"
     title: "pystim"
-    excerpt: "A stimulus program for visual neuroscience experiments built on Psychopy. "
+    excerpt: "A stimulus program for visual neuroscience experiments built on Psychopy.<br/>"
     url: https://sivyerlab.github.io/pystim/
     btn_class: "btn--primary"
     btn_label: "Website"
     
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/eye.png
+    alt: "No rabbits were harmed"
+    title: "pyEyeTracker"
+    excerpt: "An OpenCV program to track pupils in close up videos of rabbit eyes."
+    url: https://github.com/SivyerLab/pyEyeTracker
     btn_class: "btn--primary"
     btn_label: "Link"      
 ---
