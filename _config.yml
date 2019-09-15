@@ -63,12 +63,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:alex.wc.tomlinson@gmail.com
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/awctomlinson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/awctomlinson"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/awctomlinson/"
 
 footer:
   links:

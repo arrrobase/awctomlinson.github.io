@@ -29,9 +29,9 @@ Portland, OR
 Jan 2017 – Jun 2018 · 1 yrs 6 mos \\
 Portland, OR
 
-\- Maintenance and upgrade of stimulus software, open sourcing of code with hardware setup instructions.
-\- Development of data analysis scripts and automation.
-\- Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
+**\-** Maintenance and upgrade of stimulus software, open sourcing of code with hardware setup instructions. \\
+**\-** Development of data analysis scripts and automation. \\
+**\-** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
 ### Research Assitant II - Taylor Lab
 Aug 2015 – Dec 2016 · 1 yrs 5 mos \\
