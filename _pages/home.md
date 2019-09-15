@@ -8,7 +8,7 @@ header:
 excerpt: >
   Python developer at OHSU.
 feature_row:
-  - image_path: /assets/images/dlplcr4500evm.jpg
+  - image_path: /assets/images/dlplcr4500evm2.jpg
     alt: "pycrafter4500"
     title: "pycrafter4500"
     excerpt: "Unofficial Python API for some functionality of the Texas Instruments Lightcrafter 4500. Capable of frame rates in excess of 180 Hz."
