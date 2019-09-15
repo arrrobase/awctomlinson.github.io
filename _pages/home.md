@@ -4,7 +4,7 @@ title: ""
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/pier2.jpg
+  # overlay_image: /assets/images/pier2.jpg
 excerpt: >
   Python developer at OHSU.
 feature_row:
@@ -33,7 +33,7 @@ feature_row:
     btn_label: "Website"
 ---
 
-### Sample projects
+## Sample projects
 <br/>
 <br/>
 
