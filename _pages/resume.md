@@ -21,8 +21,8 @@ Jan 2017 – Feb 2019 · 2 yrs 2 mos \\
 Portland, OR 
 
 * Developed suite of Python scripts to automate and improve workflow (saving 400+ man hours annually).
-* Developed and maintained custom in house Python applications.
-* Quality control and extensive manual segmentation of OCT Angiography data.
+* Developed and maintained custom in house Python applications. \\
+**•** Quality control and extensive manual segmentation of OCT Angiography data. \\
 • Presented at study conference to large audience.
 
 ### Research Assitant II - Sivyer Lab
