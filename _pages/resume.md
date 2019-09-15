@@ -12,13 +12,17 @@ Feb 2019 – Present \\
 Portland, OR
 
 * Data analysis and visualization, using Pandas/Matplotlib/Seaborn/Dash/Plotly.
-* Built and maintained data processing pipeline (SQLAlchemy/Celery/Pandas). \\
+* Built and maintained data processing pipeline (SQLAlchemy/Celery/Pandas).
 * Built custom dashboards for study sponsors (Flask/Dash).
 * Supervising several undergraduate student workers and reporting quality metrics.
 
 ### Research Assitant II - Casey Reading Center
 Jan 2017 – Feb 2019 · 2 yrs 2 mos \\
 Portland, OR
+
+• test \\
+• test 2 \\
+
 
 * Developed suite of Python scripts to automate and improve workflow (saving 400+ man hours annually).
 * Developed and maintained custom in house Python applications.
@@ -34,3 +38,6 @@ Portland, OR
 * Development of data analysis scripts and automation.
 * Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
+Portland, OR
+
+Data anal
