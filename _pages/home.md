@@ -4,7 +4,7 @@ title: ""
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/pier2.jpg
 excerpt: >
   Python developer at OHSU.
 feature_row:
