@@ -1,6 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
+classes: wide
 ---
 
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
