@@ -8,21 +8,21 @@ header:
 excerpt: >
   Python developer at OHSU.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/dlplcr4500evm.jpg
     alt: "pycrafter4500"
     title: "pycrafter4500"
-    excerpt: "Python USB controller for the TI LCR4500EVM."
+    excerpt: "Unofficial Python API for some functionality of the Texas Instruments Lightcrafter 4500. Capable of frame rates in excess of 180 Hz."
     url: https://github.com/SivyerLab/pyCrafter4500
     btn_class: "btn--primary"
-    btn_label: "Link"
-    
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
     btn_label: "Github"
+    
+  - image_path: /assets/images/pystim.gif
+    alt: "pystim"
+    title: "pystim"
+    excerpt: "A stimulus program for visual neuroscience experiments built on Psychopy. "
+    url: https://sivyerlab.github.io/pystim/
+    btn_class: "btn--primary"
+    btn_label: "Website"
     
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
