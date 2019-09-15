@@ -3,7 +3,7 @@ email: alex.wc.tomlinson@gmail.com
 description: >-
   Python developer at the Casey Reading Center at OHSU.
 github_username: awctomlinson
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
 # Build settings
