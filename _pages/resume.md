@@ -8,8 +8,8 @@ classes: wide
 4 yrs 2 mos
 
 ### Senior Research Assistant - Casey Reading Center
-<small>*Feb 2019 – Present*</small> \\
-<small>*Portland, OR*</small>
+*Feb 2019 – Present* \\
+*Portland, OR*
 
 **•** Data analysis and visualization, using Pandas/Matplotlib/Seaborn/Dash/Plotly. \\
 **•** Built and maintained data processing pipeline (SQLAlchemy/Celery/Pandas). \\
