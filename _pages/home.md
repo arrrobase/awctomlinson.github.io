@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: "Portfolio"
 permalink: /
 header:
   overlay_color: "#5e616c"
