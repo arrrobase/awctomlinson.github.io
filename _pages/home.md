@@ -16,14 +16,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Github"
     
-  - image_path: /assets/images/pystim.gif
-    alt: "pystim"
-    title: "pystim"
-    excerpt: "A stimulus program for visual neuroscience experiments built on Psychopy."
-    url: https://sivyerlab.github.io/pystim/
-    btn_class: "btn--primary"
-    btn_label: "Website"
-    
   - image_path: /assets/images/eye.png
     alt: "No rabbits were harmed"
     title: "pyEyeTracker"
@@ -31,6 +23,14 @@ feature_row:
     url: https://github.com/SivyerLab/pyEyeTracker
     btn_class: "btn--primary"
     btn_label: "Github"      
+    
+  - image_path: /assets/images/pystim.gif
+    alt: "pystim"
+    title: "pystim"
+    excerpt: "A stimulus program for visual neuroscience experiments built on Psychopy."
+    url: https://sivyerlab.github.io/pystim/
+    btn_class: "btn--primary"
+    btn_label: "Website"
 ---
 
 ### Sample projects
