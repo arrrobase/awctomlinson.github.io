@@ -8,8 +8,8 @@ classes: wide
 4 yrs 2 mos
 
 ### Senior Research Assistant - Casey Reading Center
-Feb 2019 – Present \\
-Portland, OR
+###### Feb 2019 – Present \\
+###### Portland, OR
 
 **•** Data analysis and visualization, using Pandas/Matplotlib/Seaborn/Dash/Plotly. \\
 **•** Built and maintained data processing pipeline (SQLAlchemy/Celery/Pandas). \\
@@ -40,3 +40,13 @@ Portland, OR
 **•** Maintenance and upgrade of stimulus software, open sourcing of code with hardware setup instructions. \\
 **•** Development of data analysis scripts and automation. \\
 **•** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
+
+## ![OHSU logo](/assets/images/sa_logo.jpb) Scribe America
+2 yrs 1 mo
+
+### Emergency Department Scribe
+###### May 2013 – May 2015 \\
+###### Phoenix, AZ
+
+**•** Increased patient flow and patient ­provider interaction by charting in real time for physicians as they saw patients. \\
+**•** Transcribed all test/radiology results, interpretations and recorded diagnoses, procedures, and treatments.
