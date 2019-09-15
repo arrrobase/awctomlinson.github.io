@@ -10,7 +10,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/dlplcr4500evm2.jpg
     alt: "pycrafter4500"
-    title: "pycrafter4500"
+    title: "<br/><br/>pycrafter4500"
     excerpt: "Unofficial Python API for some functionality of the Texas Instruments Lightcrafter 4500. Capable of frame rates in excess of 180 Hz, used to project images onto flat mount retinas."
     url: https://github.com/SivyerLab/pyCrafter4500
     btn_class: "btn--primary"
@@ -38,5 +38,7 @@ feature_row:
 ---
 
 ### Sample projects
+<br/>
+<br/>
 
 {% include feature_row %}
