@@ -41,7 +41,7 @@ Portland, OR
 **•** Development of data analysis scripts and automation. \\
 **•** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
-## ![OHSU logo](/assets/images/sa_logo.jpb) Scribe America
+## ![Scribe America logo](/assets/images/sa_logo.jpg) Scribe America
 2 yrs 1 mo
 
 ### Emergency Department Scribe
