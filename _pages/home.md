@@ -34,6 +34,5 @@ feature_row:
 ---
 
 ## Sample projects
-<br/>
 
 {% include feature_row %}
