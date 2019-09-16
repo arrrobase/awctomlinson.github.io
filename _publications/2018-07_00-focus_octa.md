@@ -15,7 +15,7 @@ gallery:
     alt: "Figure 1"
 ---
 
-#### Alexander Tomlinson, Bilal Hasan, and Brandon J. Lujan
+**Alexander Tomlinson, Bilal Hasan, and Brandon J. Lujan**
 <br/>
 
 Common OCT angiography (OCTA) artifacts have previously
