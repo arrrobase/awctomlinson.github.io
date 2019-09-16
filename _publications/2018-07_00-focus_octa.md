@@ -15,6 +15,8 @@ gallery:
     alt: "Figure 1"
 ---
 
+### Alexander Tomlinson, Bilal Hasan, and Brandon J. Lujan
+
 Common OCT angiography (OCTA) artifacts have previously
 been extensively described. The consequences of defocus have
 been shown, but the quantitative significance of even subtle
