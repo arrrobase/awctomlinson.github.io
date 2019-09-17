@@ -7,7 +7,7 @@ sidebar:
   - title: "Investigative Ophthalmology & Visual Science"
     image: assets/images/arvo_cover.jpeg
     image_alt: "Issue Cover"
-    text: "July 2018, Volume 59, Page 2849
+    text: "July 2018, Volume 59, Issue 9, Page 2849
     "
 ---
 <br/>
