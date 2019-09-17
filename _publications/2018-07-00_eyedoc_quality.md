@@ -1,8 +1,8 @@
 ---
 title: "Initial Quality Control Assessment of Optical Coherence Tomography Angiography Data in the EyeDOC Study"
 excerpt: "Investigative Ophthalmology & Visual Science July 2018"
-header:
-  image: assets/images/F1.jpg
+# header:
+  # image: assets/images/F1.jpg
 sidebar:
   - title: "Investigative Ophthalmology & Visual Science"
     image: assets/images/arvo_cover.jpeg
