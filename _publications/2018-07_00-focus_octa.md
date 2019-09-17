@@ -3,7 +3,6 @@ title: "Importance of Focus in OCT Angiography"
 excerpt: "Ophthalmology Retina July 2018"
 header:
   image: assets/images/final_notext.png
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Ophthalmology Retina"
     image: assets/images/or_cover.jpg
