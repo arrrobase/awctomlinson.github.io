@@ -33,13 +33,13 @@ Portland, OR
 **•** Development of data analysis scripts and automation. \\
 **•** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
-### Research Assitant II - Taylor Lab
+### Research Volunteer - Taylor Lab
 *Aug 2015 – Dec 2016 · 1 yrs 5 mos* \\
 *Portland, OR*
 
-**•** Maintenance and upgrade of stimulus software, open sourcing of code with hardware setup instructions. \\
-**•** Development of data analysis scripts and automation. \\
-**•** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
+**•** Assisted with survival surgeries and perfusions and sacrifices of rabbits and mice. \\
+**•** Prepared slides of stained rabbit brain sections and assisted in prep for rabbit retina electrophysiology experiments. \\
+**•** Developed custom software used to create stimuli for use in a range of visual neuroscience experiments.
 
 ## ![Scribe America logo](/assets/images/sa_logo.jpg) Scribe America
 2 yrs 1 mo
