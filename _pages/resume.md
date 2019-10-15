@@ -39,7 +39,7 @@ Portland, OR
 
 **•** Assisted with survival surgeries and perfusions and sacrifices of rabbits and mice. \\
 **•** Prepared slides of stained rabbit brain sections and assisted in prep for rabbit retina electrophysiology experiments. \\
-**•** Developed custom software used to create stimuli for use in a range of visual neuroscience experiments.
+**•** Developed custom software used to create stimuli for use in a range of visual neuroscience experiments (pystim).
 
 ## ![Scribe America logo](/assets/images/sa_logo.jpg) Scribe America
 2 yrs 1 mo
