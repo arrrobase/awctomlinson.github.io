@@ -5,7 +5,7 @@ classes: wide
 ---
 
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
-4 yrs 2 mos
+4 years 2 months
 
 ### Programmer - Laboratory of Brain, Hearing, and Behavior
 *Dec 2019 – Present* \\

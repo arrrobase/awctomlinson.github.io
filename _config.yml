@@ -42,7 +42,7 @@ plugins:
 author:
   name   : "Alexander Tomlinson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Python developer at the Casey Reading Center at OHSU."
+  bio    : "Python developer at the Laboratory of Brain, Hearing, and Behavior at OHSU."
   location: "Portland, OR"
   links:
     - label: "Email"
