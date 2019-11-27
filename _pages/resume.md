@@ -30,7 +30,7 @@ classes: wide
 **•** Presented at study conference to large audience.
 
 ### Research Assitant II - Sivyer Lab
-*Jan 2017 – Jun 2018 · 1 yrs 6 mos* \\
+*Jan 2017 – Jun 2018 · 1 yr 6 mos* \\
 *Portland, OR*
 
 **•** Maintenance and upgrade of stimulus software, open sourcing of code with hardware setup instructions. \\
@@ -38,7 +38,7 @@ classes: wide
 **•** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
 ### Research Volunteer - Taylor Lab
-*Aug 2015 – Dec 2016 · 1 yrs 5 mos* \\
+*Aug 2015 – Dec 2016 · 1 yr 5 mos* \\
 *Portland, OR*
 
 **•** Assisted with survival surgeries and perfusions and sacrifices of rabbits and mice. \\
