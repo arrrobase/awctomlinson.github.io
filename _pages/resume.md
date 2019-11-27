@@ -7,12 +7,12 @@ classes: wide
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
 4 years 4 months
 
-### Programmer - Laboratory of Brain, Hearing, and Behavior
+### Research Programmer - Laboratory of Brain, Hearing, and Behavior
 *Dec 2019 – Present* \\
 *Portland, OR*
 
 ### Senior Research Assistant - Casey Reading Center
-*Feb 2019 – Nov 2019* \\
+*Feb 2019 – Nov 2019 · 10 mos* \\
 *Portland, OR*
 
 **•** Data analysis and visualization, using Pandas/Matplotlib/Seaborn/Dash/Plotly. \\
