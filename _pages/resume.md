@@ -8,12 +8,12 @@ classes: wide
 4 years 4 months
 
 ### Research Programmer - Laboratory of Brain, Hearing, and Behavior
-#### OHSU Vollum Institute
+**OHSU Vollum Institute**
 *Dec 2019 – Present* \\
 *Portland, OR*
 
 ### Senior Research Assistant - Casey Reading Center
-#### OHSU Caey Eye Institute
+**OHSU Caey Eye Institute**
 *Feb 2019 – Nov 2019 · 10 mos* \\
 *Portland, OR*
 
@@ -23,7 +23,7 @@ classes: wide
 **•** Supervising several undergraduate student workers and reporting quality metrics.
 
 ### Research Assitant II - Casey Reading Center
-#### OHSU Caey Eye Institute
+**OHSU Caey Eye Institute**
 *Jan 2017 – Feb 2019 · 2 yrs 2 mos* \\
 *Portland, OR* 
 
@@ -33,7 +33,7 @@ classes: wide
 **•** Presented at study conference to large audience.
 
 ### Research Assitant II - Sivyer Lab
-#### OHSU Caey Eye Institute
+**OHSU Caey Eye Institute**
 *Jan 2017 – Jun 2018 · 1 yr 6 mos* \\
 *Portland, OR*
 
@@ -42,7 +42,7 @@ classes: wide
 **•** Custom Python application development (pyandor, pyEyeTracker, HekaBrowser, …)
 
 ### Research Volunteer - Taylor Lab
-#### OHSU Caey Eye Institute
+**OHSU Caey Eye Institute**
 *Aug 2015 – Dec 2016 · 1 yr 5 mos* \\
 *Portland, OR*
 
