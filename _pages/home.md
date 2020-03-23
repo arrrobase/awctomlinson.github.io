@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Portfolio of Open Source Projects"
+title: "Open Source Projects"
 permalink: /
 header:
   overlay_color: "#5e616c"
