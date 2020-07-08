@@ -5,10 +5,13 @@ classes: wide
 ---
 
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
-4 years 4 months
+
+### MD Candidate - School of Medicine
+*Aug 2020 – Present* \\
+*Portland, OR*
 
 ### Research Programmer - Laboratory of Brain, Hearing, and Behavior
-*Dec 2019 – Present* \\
+*Dec 2019 – July 2020 · 8 mos* \\
 *Portland, OR*
 
 ### Senior Research Assistant - Casey Reading Center
