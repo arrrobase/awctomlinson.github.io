@@ -6,7 +6,7 @@ classes: wide
 
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
 
-### MD Candidate - School of Medicine
+### MD Student - School of Medicine
 *Aug 2020 – Present* \\
 *Portland, OR*
 
