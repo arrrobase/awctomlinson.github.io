@@ -1,7 +1,7 @@
 title: Alexander Tomlinson
 email: alex.wc.tomlinson@gmail.com
 description: >-
-  Python developer at the Casey Reading Center at OHSU.
+  MD student at OHSU.
 github_username: awctomlinson
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
@@ -42,7 +42,7 @@ plugins:
 author:
   name   : "Alexander Tomlinson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Python developer at the Laboratory of Brain, Hearing, and Behavior at OHSU."
+  bio    : "MD student at OHSU."
   location: "Portland, OR"
   links:
     - label: "Email"
