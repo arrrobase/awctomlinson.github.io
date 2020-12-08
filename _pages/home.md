@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   # overlay_image: /assets/images/pier2.jpg
 excerpt: >
-  MD candidate at OHSU.
+  MD student at OHSU.
 feature_row:
   - image_path: /assets/images/dlplcr4500evm2.jpg
     alt: "pycrafter4500"
