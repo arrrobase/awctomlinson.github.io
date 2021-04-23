@@ -2,7 +2,7 @@ title: Alexander Tomlinson
 email: alex.wc.tomlinson@gmail.com
 description: >-
   MD student at OHSU.
-github_username: awctomlinson
+github_username: arrrobase
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
@@ -50,7 +50,7 @@ author:
       url: mailto:alex.wc.tomlinson@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/awctomlinson"
+      url: "https://github.com/arrrobase"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/awctomlinson/"
@@ -62,7 +62,7 @@ footer:
       url: "https://www.linkedin.com/in/awctomlinson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/awctomlinson"
+      url: "https://github.com/arrrobase"
 
 collections:
   publications:
