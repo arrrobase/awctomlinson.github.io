@@ -5,7 +5,7 @@ excerpt: "Investigative Ophthalmology & Visual Science June 2020"
   # image: assets/images/F1.jpg
 sidebar:
   - title: "Investigative Ophthalmology & Visual Science"
-    image: assets/images/Arvo_2020.jpeg
+    image: assets/images/Arvo_2020.png
     image_alt: "Issue Cover"
     text: "June 2020, Volume 61, Issue 7, Page 1606
     "
