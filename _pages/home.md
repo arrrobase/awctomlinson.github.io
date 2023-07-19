@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Resume"
+title: "Alexander Tomlinson"
 classes: wide
 ---
 
