@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Open Source Projects"
-permalink: /
+permalink: /projects/
 header:
   overlay_color: "#5e616c"
   # overlay_image: /assets/images/pier2.jpg
