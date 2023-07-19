@@ -1,5 +1,5 @@
 ---
-permalink: /resume/
+permalink: /
 title: "Resume"
 classes: wide
 ---
