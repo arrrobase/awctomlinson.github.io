@@ -8,28 +8,28 @@ classes: wide
 *Portland, OR*
 
 ### Resident - Department of Surgery
-*June 2024 – Present* \\
+*June 2024 – Present* 
 
 ### MD Student - School of Medicine
-*Aug 2020 – March 2024 · 3 yr 8 mos* \\
+*Aug 2020 – March 2024 · 3 yr 8 mos* 
 
 ### Research Programmer - Laboratory of Brain, Hearing, and Behavior
-*Dec 2019 – July 2020 · 8 mos* \\
+*Dec 2019 – July 2020 · 8 mos* 
 
 ### Senior Research Assistant - Casey Reading Center
-*Feb 2019 – Nov 2019 · 10 mos* \\
+*Feb 2019 – Nov 2019 · 10 mos* 
 
 ### Research Assitant II - Casey Reading Center
-*Jan 2017 – Feb 2019 · 2 yrs 2 mos* \\
+*Jan 2017 – Feb 2019 · 2 yrs 2 mos* 
 
 ### Research Assitant II - Sivyer Lab
-*Jan 2017 – Jun 2018 · 1 yr 6 mos* \\
+*Jan 2017 – Jun 2018 · 1 yr 6 mos* 
 
 ### Research Volunteer - Taylor Lab
-*Aug 2015 – Dec 2016 · 1 yr 5 mos* \\
+*Aug 2015 – Dec 2016 · 1 yr 5 mos* 
 
 ## ![Scribe America logo](/assets/images/sa_logo.jpg) Scribe America
 *Phoenix, AZ*
 
 ### Emergency Department Scribe
-*May 2013 – May 2015 · 2 yrs 1 mo* \\
+*May 2013 – May 2015 · 2 yrs 1 mo* 
