@@ -7,7 +7,7 @@ classes: wide
 ## ![OHSU logo](/assets/images/ohsu_logo.png) Oregon Health and Sciences University
 *Portland, OR*
 
-### Anesthesia Resident - Department of Anesthesia and Perioperative Medicine
+### Anesthesia Resident - Department of Anesthesiology and Perioperative Medicine
 *July 2025 – Exp. July 2030* 
 
 ### Surgery Intern - Department of Surgery
