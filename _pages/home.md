@@ -8,13 +8,14 @@ classes: wide
 *Portland, OR*
 
 ### Anesthesia Resident - Department of Anesthesiology and Perioperative Medicine
-*July 2025 – Exp. July 2030* 
+#### Oregon Scholars Program - Critical Care Track
+*July 2025 – Exp. July 2030 · 5 yrs* 
 
 ### Surgery Intern - Department of Surgery
-*June 2024 – June 2025* 
+*June 2024 – June 2025 · 1 yr* 
 
 ### MD Student - School of Medicine
-*Aug 2020 – March 2024 · 3 yr 8 mos* 
+*Aug 2020 – March 2024 · 3 yrs 8 mos* 
 
 ### Research Programmer - Laboratory of Brain, Hearing, and Behavior
 *Dec 2019 – July 2020 · 8 mos* 
